@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-cli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-cli/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-container/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-container/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-dataaccess/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-dataaccess/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-domain/task-domain-application-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-domain/task-domain-application-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-domain/task-domain-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-domain/task-domain-core/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
